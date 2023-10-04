@@ -4,7 +4,7 @@ Click [here](https://colab.research.google.com/drive/1Kte1PA77W-47d86fP9K-Jwsll4
 
 or  
 
-[here]() to view the project on Github.
+[here](https://github.com/alanchiem/shakespeare_poetry/blob/main/Shakespeare_Poetry.ipynb) to view the project on Github.
 
 
 # My Findings
